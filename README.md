@@ -1,4 +1,13 @@
 # 🏥 Pandemic Patterns: Unveiling COVID-19 Dynamics in India Through Excel Dashboard Analytics
+## 📸 Dashboard Preview
+### Overview Dashbord
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Healthcare-Covid-19-India-Excel-Dashboard/blob/main/images/Overview_Dashboard.png)
+
+### Statewise Vaccination Dashboard
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Healthcare-Covid-19-India-Excel-Dashboard/blob/main/images/Statewise_Vaccination_Dashboard.png)
+
+### Statewise Testing Dashboard
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Healthcare-Covid-19-India-Excel-Dashboard/blob/main/images/Statewise_Testing_Dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes the **spread, testing, and vaccination progress of COVID-19 in India** using multiple datasets and presents insights through an **interactive Excel dashboard**.
